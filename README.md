@@ -1,0 +1,1 @@
+This is a sample project for showing the use of Spark-OrientDB connector as shown at [http://orientdb.com/using-the-spark-connector-for-orientdb/](http://orientdb.com/using-the-spark-connector-for-orientdb/).
